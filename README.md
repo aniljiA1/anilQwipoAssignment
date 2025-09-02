@@ -1,3 +1,14 @@
+# Customer Management App
+
+This is a full-stack customer management application.
+
+## Features
+- Add, update, delete customers
+- Manage addresses
+- Submodule for frontend client
+- Built with React, Node.js, Express, SQLite
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
